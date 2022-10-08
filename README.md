@@ -1,1 +1,3 @@
-# backend-tracking
+# panduan
+npm install
+npm start
