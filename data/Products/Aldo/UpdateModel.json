@@ -1,0 +1,11 @@
+{
+	"item_id": 101523998,
+	"model": [{
+		"model_id": 7989544,
+		"model_sku": "aaaa1",
+		"pre_order": {
+			"is_pre_order": true,
+			"days_to_ship": 10
+		}
+	}]
+}

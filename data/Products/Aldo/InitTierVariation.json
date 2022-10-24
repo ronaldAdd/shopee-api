@@ -1,0 +1,36 @@
+{
+	"error": "-",
+	"message": "-",
+	"warning": "-",
+	"request_id": "-",
+	"response": {
+		"item_id": 1234,
+		"tier_variation": [{
+			"name": "Color",
+			"option_list": [{
+				"image": {
+					"image_url": "https://cf.shopee.sg/file/82becb4830bd2ee90ad6acf8a9dc26d7"
+				},
+				"option": "Red"
+			}]
+		}],
+		"model": [{
+			"tier_index": [
+				0
+			],
+			"model_id": 3813,
+			"model_sku": "SKU",
+			"stock_info": [{
+				"stock_type": 2,
+				"normal_stock": 123
+			}],
+			"price_info": [{
+				"original_price": 0.1
+			}],
+			"seller_stock": [{
+				"location_id": "-",
+				"stock": 0
+			}]
+		}]
+	}
+}

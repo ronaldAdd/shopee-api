@@ -1,0 +1,53 @@
+{
+    "error": "",
+    "message": "",
+    "warning": "",
+    "request_id": "28ad0434c6954963a2a6d6ed7195554d",
+    "response": {
+        "price_limit": {
+            "min_limit": 5.5,
+            "max_limit": 10000000
+        },
+        "wholesale_price_threshold_percentage_of_original_price": {
+            "min_limit": 30,
+            "max_limit": 100
+        },
+        "stock_limit": {
+            "min_limit": 5,
+            "max_limit": 10000000
+        },
+        "item_name_length_limit": {
+            "min_limit": 5,
+            "max_limit": 100
+        },
+        "item_image_count_limit": {
+            "min_limit": 1,
+            "max_limit": 9
+        },
+        "item_description_length_limit": {
+            "min_limit": 10,
+            "max_limit": 2000
+        },
+        "tier_variation_name_length_limit": {
+            "min_limit": 0,
+            "max_limit": 14
+        },
+        "tier_variation_option_length_limit": {
+            "min_limit": 0,
+            "max_limit": 20
+        },
+        "item_count_limit": {
+            "max_limit": 50001
+        },
+        "extended_description_limit":{
+           "description_text_length_min":100,
+           "description_text_length_max":1000,
+           "description_image_num_min":1,
+           "description_image_num_max":10,
+           "description_image_width_min":600,
+           "description_image_height_min":1000,
+           "description_image_aspect_ratio_min":0.5,
+           "description_image_aspect_ratio_max":32
+        }
+    }
+}
