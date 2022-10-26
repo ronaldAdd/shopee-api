@@ -1,0 +1,104 @@
+{
+	"error": "",
+	"message": "",
+	"warning": "",
+	"request_id": "b338afa23ffd3ea3d46dc0dc5998d225",
+	"response": {
+		"tier_variation": [{
+			"name": "size",
+			"option_list": [{
+					"option": "XS"
+				},
+				{
+					"option": "S"
+				},
+				{
+					"option": "M"
+				}
+			]
+		}],
+		"model": [{
+				"model_id": 9182545,
+				"promotion_id": 0,
+				"tier_index": [
+					1
+				],
+				"stock_info": [{
+						"stock_type": 2,
+						"stock_location_id": "TWZ",
+						"current_stock": 100,
+						"normal_stock": 100
+					},
+					{
+						"stock_type": 1,
+						"current_stock": 0,
+						"normal_stock": 0,
+						"reserved_stock": 0
+					}
+				],
+				"price_info": [{
+					"current_price": 800,
+					"original_price": 800,
+					"inflated_price_of_current_price": 800,
+					"inflated_price_of_original_price": 800
+				}],
+				"model_sku": "3344",
+				"pre_order": {
+					"is_pre_order": false,
+					"days_to_ship": 2
+				},
+				"stock_info_v2": {
+					"summary_info": {
+						"total_reserved_stock": 0,
+						"total_available_stock": 100
+					},
+					"seller_stock": [{
+						"location_id": "TWZ",
+						"stock": 100
+					}]
+				}
+			},
+			{
+				"model_id": 9182546,
+				"promotion_id": 0,
+				"tier_index": [
+					0
+				],
+				"stock_info": [{
+						"stock_type": 2,
+						"stock_location_id": "TWZ",
+						"current_stock": 100,
+						"normal_stock": 100
+					},
+					{
+						"stock_type": 1,
+						"current_stock": 0,
+						"normal_stock": 0,
+						"reserved_stock": 0
+					}
+				],
+				"price_info": [{
+					"current_price": 800,
+					"original_price": 800,
+					"inflated_price_of_current_price": 800,
+					"inflated_price_of_original_price": 800
+				}],
+				"model_sku": "1123",
+				"pre_order": {
+					"is_pre_order": false,
+					"days_to_ship": 2
+				},
+				"stock_info_v2": {
+					"summary_info": {
+						"total_reserved_stock": 0,
+						"total_available_stock": 100
+					},
+					"seller_stock": [{
+						"location_id": "TWZ",
+						"stock": 100
+					}]
+				}
+			}
+		]
+	}
+}
